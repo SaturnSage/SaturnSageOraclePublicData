@@ -1,1 +1,16 @@
-{}
+{
+    "oroscopo": {
+        "Ariete": "Oggi è un buon giorno per iniziare nuovi progetti...",
+        "Toro": "Prenditi del tempo per rilassarti e riflettere...",
+        "Gemelli": "Una giornata piena di energia e opportunità ti attende...",
+        "Cancro": "Ascolta il tuo cuore e segui le tue emozioni oggi...",
+        "Leone": "La tua leadership sarà messa alla prova, dimostra il tuo valore...",
+        "Vergine": "La precisione e l'organizzazione ti porteranno grandi risultati...",
+        "Bilancia": "Oggi è il giorno perfetto per bilanciare la tua vita personale e professionale...",
+        "Scorpione": "La tua passione e determinazione ti guideranno verso il successo...",
+        "Sagittario": "L'avventura è alle porte, preparati a esplorare nuove opportunità...",
+        "Capricorno": "Il duro lavoro di oggi getterà le basi per un grande successo domani...",
+        "Acquario": "La tua creatività brillerà oggi, porta avanti nuove idee...",
+        "Pesci": "La tua sensibilità ti aiuterà a comprendere meglio chi ti circonda..."
+    }
+}
